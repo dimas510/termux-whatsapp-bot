@@ -15,14 +15,14 @@ const speed = require('performance-now');
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
-const BotName = 'Lexa'; 
-const instagram = 'http://www.instagram.com/mrf.zvx'; 
-const aktif = '08:00 - 22:00';
+const BotName = 'Khoceng'; 
+const instagram = 'https://instagram.com/dimas_riyan10?igshid=13642ti9es2x2'; 
+const aktif = '08:00 - 23:00 WIB';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:Mrf.zvx\n' // Nama kamu
-            + 'ORG:Lexa;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+            + 'FN:Mrf.zvx\n' // Dimas
+            + 'ORG:Lexa;\n' // Khoceng
+            + 'TEL;type=CELL;type=VOICE;waid=6281235412454:+62 812-3541-2454\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
